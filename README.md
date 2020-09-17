@@ -4,6 +4,6 @@ This is a simple app developed using MIT's app inventor 2. The objective is to c
 
 # Screens
 
-It is a 2 screen app.
+It is a 2 screen app :
 1. The first screen shows the list of words and a refresh button to refresh the list
 2. The second screen features the meaning of the selected word and 1-click google search
