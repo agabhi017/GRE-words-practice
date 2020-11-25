@@ -7,3 +7,6 @@ This is a simple app developed using MIT's app inventor 2. The objective is to c
 It is a 2 screen app :
 1. The first screen shows the list of words and a refresh button to refresh the list
 2. The second screen features the meaning of the selected word and 1-click google search
+
+<img src="https://github.com/agabhi017/GRE-words-practice-application/blob/master/Screens/screen_1.jpg" width="200" height="400">
+<img src="https://github.com/agabhi017/GRE-words-practice-application/blob/master/Screens/screen_2.jpg" width="200" height="400">
